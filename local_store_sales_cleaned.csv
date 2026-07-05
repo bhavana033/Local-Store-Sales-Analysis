@@ -1,0 +1,501 @@
+Invoice_ID,Date,Product_Name,Category,Brand,Supplier,Quantity,Unit_Price,Discount,Revenue,Cost,Profit,Payment_Method,Customer_Type,Employee,Stock_Remaining,Month
+INV00001,2025-10-31,Rice 5kg,Grocery,India Gate,Metro Distributors,2,450,24,876,693.9,182.1,UPI,New,Sneha,112,October
+INV00002,2025-12-02,Bread,Bakery,Britannia,XYZ Traders,2,45,6,84,63.15,20.85,Cash,Regular,Sneha,146,December
+INV00003,2025-06-11,Toothpaste,Personal Care,Colgate,Metro Distributors,1,110,9,101,74.72,26.28,UPI,Regular,Sneha,146,June
+INV00004,2025-05-12,Toothpaste,Personal Care,Colgate,XYZ Traders,5,110,15,535,397.55,137.45,Cash,Regular,Ravi,56,May
+INV00005,2025-10-17,Toothpaste,Personal Care,Colgate,ABC Suppliers,2,110,33,187,135.9,51.1,Card,New,Sneha,106,October
+INV00006,2025-07-01,Rice 5kg,Grocery,India Gate,XYZ Traders,4,450,40,1760,1334.84,425.16,Cash,New,Priya,55,July
+INV00007,2025-06-07,Biscuits,Snacks,Parle,XYZ Traders,5,30,19,131,96.0,35.0,UPI,Regular,Anil,72,June
+INV00008,2025-09-15,Cooking Oil,Grocery,Fortune,Metro Distributors,2,180,29,331,226.91,104.09,UPI,New,Priya,145,September
+INV00009,2025-01-22,Cooking Oil,Grocery,Fortune,Metro Distributors,4,180,28,692,494.12,197.88,UPI,New,Ravi,84,January
+INV00010,2025-05-16,Cooking Oil,Grocery,Fortune,XYZ Traders,5,180,5,895,641.09,253.91,Cash,New,Anil,34,May
+INV00011,2025-04-13,Sugar 1kg,Grocery,Madhur,Metro Distributors,4,55,16,204,141.5,62.5,UPI,Regular,Sneha,36,April
+INV00012,2025-12-19,Shampoo,Personal Care,Clinic Plus,XYZ Traders,5,220,18,1082,844.43,237.57,Cash,New,Priya,136,December
+INV00013,2025-07-17,Sugar 1kg,Grocery,Madhur,Metro Distributors,2,55,4,106,72.85,33.15,Card,Regular,Anil,33,July
+INV00014,2025-01-10,Soft Drink,Beverages,Coca-Cola,Metro Distributors,1,45,31,14,10.79,3.21,Cash,New,Anil,94,January
+INV00015,2025-05-16,Toothpaste,Personal Care,Colgate,Metro Distributors,3,110,11,319,232.13,86.87,UPI,New,Anil,149,May
+INV00016,2025-10-19,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,14,646,479.54,166.46,Cash,New,Priya,30,October
+INV00017,2025-01-09,Soft Drink,Beverages,Coca-Cola,Metro Distributors,5,45,19,206,142.14,63.86,UPI,New,Priya,134,January
+INV00018,2025-06-11,Soft Drink,Beverages,Coca-Cola,XYZ Traders,3,45,1,134,92.92,41.08,Cash,Regular,Ravi,11,June
+INV00019,2025-07-07,Rice 5kg,Grocery,India Gate,Fresh Foods,5,450,6,2244,1614.24,629.76,UPI,Regular,Ravi,135,July
+INV00020,2025-01-04,Shampoo,Personal Care,Clinic Plus,XYZ Traders,4,220,14,866,685.42,180.58,Cash,New,Anil,20,January
+INV00021,2025-01-02,Sugar 1kg,Grocery,Madhur,ABC Suppliers,1,55,16,39,30.98,8.02,Cash,New,Ravi,44,January
+INV00022,2025-07-04,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,4,220,19,861,634.39,226.61,Cash,New,Ravi,55,July
+INV00023,2025-03-19,Shampoo,Personal Care,Clinic Plus,Metro Distributors,2,220,19,421,327.8,93.2,UPI,New,Sneha,20,March
+INV00024,2025-02-05,Soap,Personal Care,Lux,Fresh Foods,3,40,30,90,62.73,27.27,Cash,Regular,Priya,5,February
+INV00025,2025-02-21,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,13,527,384.49,142.51,UPI,New,Ravi,40,February
+INV00026,2025-04-14,Biscuits,Snacks,Parle,Fresh Foods,4,30,1,119,88.28,30.72,Cash,New,Priya,27,April
+INV00027,2025-03-27,Soap,Personal Care,Lux,Metro Distributors,1,40,33,7,5.26,1.74,UPI,New,Ravi,126,March
+INV00028,2025-06-24,Toothpaste,Personal Care,Colgate,Metro Distributors,2,110,19,201,148.28,52.72,Cash,Regular,Sneha,16,June
+INV00029,2025-11-16,Sugar 1kg,Grocery,Madhur,Metro Distributors,2,55,6,104,80.35,23.65,UPI,New,Anil,29,November
+INV00030,2025-01-15,Bread,Bakery,Britannia,XYZ Traders,2,45,24,66,51.42,14.58,UPI,Regular,Sneha,102,January
+INV00031,2025-09-04,Soft Drink,Beverages,Coca-Cola,Fresh Foods,3,45,31,104,71.92,32.08,Cash,Regular,Priya,117,September
+INV00032,2025-12-31,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,28,632,467.01,164.99,UPI,Regular,Ravi,68,December
+INV00033,2025-12-09,Sugar 1kg,Grocery,Madhur,XYZ Traders,3,55,32,133,106.31,26.69,UPI,Regular,Priya,134,December
+INV00034,2025-08-06,Bread,Bakery,Britannia,XYZ Traders,2,45,33,57,45.33,11.67,UPI,New,Anil,75,August
+INV00035,2025-10-12,Toothpaste,Personal Care,Colgate,Fresh Foods,3,110,28,302,230.44,71.56,UPI,Regular,Priya,117,October
+INV00036,2025-11-16,Cooking Oil,Grocery,Fortune,Fresh Foods,2,180,1,359,282.82,76.18,Card,Regular,Priya,6,November
+INV00037,2025-06-23,Bread,Bakery,Britannia,Metro Distributors,4,45,1,179,123.9,55.1,UPI,Regular,Anil,113,June
+INV00038,2025-11-30,Soap,Personal Care,Lux,Metro Distributors,1,40,18,22,17.22,4.78,UPI,Regular,Priya,147,November
+INV00039,2025-04-15,Soft Drink,Beverages,Coca-Cola,Fresh Foods,4,45,9,171,116.01,54.99,UPI,Regular,Anil,50,April
+INV00040,2025-12-05,Bread,Bakery,Britannia,XYZ Traders,4,45,40,140,96.91,43.09,Card,Regular,Anil,6,December
+INV00041,2025-12-28,Toothpaste,Personal Care,Colgate,ABC Suppliers,3,110,11,319,250.48,68.52,Card,New,Sneha,101,December
+INV00042,2025-02-15,Rice 5kg,Grocery,India Gate,XYZ Traders,4,450,23,1777,1316.06,460.94,UPI,New,Priya,138,February
+INV00043,2025-11-04,Rice 5kg,Grocery,India Gate,Metro Distributors,5,450,38,2212,1676.69,535.31,UPI,New,Priya,100,November
+INV00044,2025-09-22,Shampoo,Personal Care,Clinic Plus,Fresh Foods,4,220,5,875,581.92,293.08,Cash,New,Priya,99,September
+INV00045,2025-07-27,Milk 1L,Dairy,Amul,Fresh Foods,3,65,15,180,126.72,53.28,UPI,Regular,Ravi,121,July
+INV00046,2025-07-24,Bread,Bakery,Britannia,Metro Distributors,5,45,18,207,151.44,55.56,Card,New,Priya,87,July
+INV00047,2025-09-05,Biscuits,Snacks,Parle,Fresh Foods,3,30,29,61,43.38,17.62,Card,New,Ravi,143,September
+INV00048,2025-05-27,Soft Drink,Beverages,Coca-Cola,XYZ Traders,4,45,31,149,105.68,43.32,Cash,New,Ravi,123,May
+INV00049,2025-12-06,Shampoo,Personal Care,Clinic Plus,Fresh Foods,5,220,38,1062,844.28,217.72,Card,Regular,Ravi,7,December
+INV00050,2025-05-03,Soap,Personal Care,Lux,ABC Suppliers,3,40,4,116,75.63,40.37,Card,New,Priya,47,May
+INV00051,2025-10-07,Biscuits,Snacks,Parle,Fresh Foods,3,30,40,50,32.93,17.07,UPI,New,Anil,121,October
+INV00052,2025-11-10,Bread,Bakery,Britannia,Metro Distributors,1,45,36,9,6.42,2.58,Card,Regular,Priya,109,November
+INV00053,2025-02-16,Rice 5kg,Grocery,India Gate,Fresh Foods,4,450,26,1774,1298.2,475.8,Cash,New,Sneha,11,February
+INV00054,2025-09-08,Soft Drink,Beverages,Coca-Cola,Fresh Foods,2,45,6,84,60.84,23.16,Cash,New,Priya,54,September
+INV00055,2025-05-24,Milk 1L,Dairy,Amul,ABC Suppliers,1,65,7,58,43.19,14.81,Cash,New,Ravi,31,May
+INV00056,2025-10-17,Biscuits,Snacks,Parle,Fresh Foods,3,30,23,67,51.69,15.31,Card,Regular,Ravi,101,October
+INV00057,2025-06-05,Biscuits,Snacks,Parle,ABC Suppliers,2,30,37,23,14.99,8.01,Card,New,Anil,51,June
+INV00058,2025-08-10,Sugar 1kg,Grocery,Madhur,Metro Distributors,1,55,16,39,27.67,11.33,UPI,New,Priya,63,August
+INV00059,2025-03-21,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,2,220,26,414,278.27,135.73,Cash,Regular,Ravi,123,March
+INV00060,2025-09-04,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,7,533,418.49,114.51,Card,New,Anil,39,September
+INV00061,2025-04-11,Milk 1L,Dairy,Amul,ABC Suppliers,4,65,27,233,182.12,50.88,UPI,New,Priya,23,April
+INV00062,2025-06-29,Cooking Oil,Grocery,Fortune,ABC Suppliers,4,180,34,686,528.5,157.5,Card,New,Ravi,62,June
+INV00063,2025-11-15,Rice 5kg,Grocery,India Gate,ABC Suppliers,1,450,15,435,289.66,145.34,UPI,Regular,Ravi,23,November
+INV00064,2025-07-09,Sugar 1kg,Grocery,Madhur,ABC Suppliers,2,55,25,85,62.11,22.89,Cash,New,Anil,53,July
+INV00065,2025-12-22,Bread,Bakery,Britannia,ABC Suppliers,1,45,27,18,12.37,5.63,Cash,Regular,Ravi,133,December
+INV00066,2025-02-18,Cooking Oil,Grocery,Fortune,ABC Suppliers,3,180,33,507,349.22,157.78,Card,New,Anil,82,February
+INV00067,2025-07-22,Soap,Personal Care,Lux,Metro Distributors,1,40,19,21,14.13,6.87,Card,New,Priya,63,July
+INV00068,2025-07-24,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,3,45,2,133,100.94,32.06,Cash,Regular,Priya,125,July
+INV00069,2025-09-04,Shampoo,Personal Care,Clinic Plus,XYZ Traders,5,220,34,1066,801.15,264.85,Card,New,Ravi,100,September
+INV00070,2025-08-10,Bread,Bakery,Britannia,ABC Suppliers,5,45,26,199,137.06,61.94,Cash,New,Sneha,41,August
+INV00071,2025-01-22,Toothpaste,Personal Care,Colgate,Metro Distributors,5,110,28,522,402.43,119.57,UPI,New,Priya,105,January
+INV00072,2025-09-22,Toothpaste,Personal Care,Colgate,ABC Suppliers,1,110,13,97,70.01,26.99,UPI,New,Priya,118,September
+INV00073,2025-06-18,Soft Drink,Beverages,Coca-Cola,Metro Distributors,3,45,18,117,81.55,35.45,Cash,Regular,Sneha,28,June
+INV00074,2025-05-14,Bread,Bakery,Britannia,ABC Suppliers,5,45,35,190,132.82,57.18,UPI,New,Anil,55,May
+INV00075,2025-10-19,Milk 1L,Dairy,Amul,XYZ Traders,1,65,3,62,41.64,20.36,UPI,Regular,Ravi,142,October
+INV00076,2025-09-30,Bread,Bakery,Britannia,XYZ Traders,1,45,17,28,20.43,7.57,Card,New,Anil,54,September
+INV00077,2025-12-03,Biscuits,Snacks,Parle,ABC Suppliers,5,30,9,141,98.28,42.72,Card,Regular,Ravi,94,December
+INV00078,2025-12-28,Soap,Personal Care,Lux,ABC Suppliers,4,40,35,125,92.89,32.11,Card,Regular,Sneha,121,December
+INV00079,2025-01-26,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,16,644,469.16,174.84,UPI,Regular,Ravi,70,January
+INV00080,2025-06-01,Cooking Oil,Grocery,Fortune,Fresh Foods,5,180,9,891,637.05,253.95,Cash,New,Ravi,136,June
+INV00081,2025-11-14,Biscuits,Snacks,Parle,Fresh Foods,2,30,30,30,20.4,9.6,UPI,New,Priya,61,November
+INV00082,2025-04-24,Cooking Oil,Grocery,Fortune,Metro Distributors,3,180,21,519,363.58,155.42,Card,Regular,Priya,121,April
+INV00083,2025-07-06,Biscuits,Snacks,Parle,XYZ Traders,3,30,40,50,39.82,10.18,Card,Regular,Priya,76,July
+INV00084,2025-01-23,Milk 1L,Dairy,Amul,XYZ Traders,5,65,13,312,234.7,77.3,UPI,Regular,Ravi,8,January
+INV00085,2025-09-14,Bread,Bakery,Britannia,Metro Distributors,1,45,7,38,27.92,10.08,UPI,Regular,Anil,26,September
+INV00086,2025-02-11,Bread,Bakery,Britannia,Fresh Foods,2,45,14,76,60.03,15.97,Card,Regular,Sneha,10,February
+INV00087,2025-04-09,Rice 5kg,Grocery,India Gate,XYZ Traders,2,450,39,861,683.49,177.51,Card,New,Sneha,31,April
+INV00088,2025-06-26,Milk 1L,Dairy,Amul,XYZ Traders,5,65,38,287,223.8,63.2,Card,Regular,Priya,129,June
+INV00089,2025-12-30,Toothpaste,Personal Care,Colgate,XYZ Traders,4,110,24,416,280.86,135.14,UPI,Regular,Sneha,35,December
+INV00090,2025-06-21,Biscuits,Snacks,Parle,Fresh Foods,1,30,36,-6,-4.09,-1.91,Cash,Regular,Sneha,120,June
+INV00091,2025-11-28,Milk 1L,Dairy,Amul,XYZ Traders,2,65,39,91,69.62,21.38,Cash,Regular,Anil,100,November
+INV00092,2025-07-31,Milk 1L,Dairy,Amul,ABC Suppliers,2,65,0,130,102.37,27.63,Card,Regular,Priya,70,July
+INV00093,2025-09-30,Toothpaste,Personal Care,Colgate,Metro Distributors,4,110,5,435,295.58,139.42,Cash,Regular,Sneha,42,September
+INV00094,2025-02-09,Biscuits,Snacks,Parle,XYZ Traders,1,30,18,12,8.96,3.04,Cash,New,Anil,122,February
+INV00095,2025-05-27,Shampoo,Personal Care,Clinic Plus,XYZ Traders,1,220,21,199,129.94,69.06,UPI,New,Priya,56,May
+INV00096,2025-07-29,Rice 5kg,Grocery,India Gate,XYZ Traders,2,450,27,873,665.27,207.73,Cash,New,Priya,75,July
+INV00097,2025-10-24,Cooking Oil,Grocery,Fortune,XYZ Traders,2,180,12,348,262.12,85.88,Card,New,Sneha,81,October
+INV00098,2025-07-06,Cooking Oil,Grocery,Fortune,ABC Suppliers,4,180,11,709,549.72,159.28,Cash,New,Ravi,79,July
+INV00099,2025-12-20,Bread,Bakery,Britannia,XYZ Traders,1,45,2,43,33.77,9.23,Cash,New,Sneha,74,December
+INV00100,2025-07-01,Biscuits,Snacks,Parle,ABC Suppliers,1,30,16,14,10.58,3.42,UPI,Regular,Sneha,146,July
+INV00101,2025-03-11,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,5,220,6,1094,778.37,315.63,Card,New,Ravi,75,March
+INV00102,2025-04-28,Rice 5kg,Grocery,India Gate,ABC Suppliers,3,450,0,1350,1079.39,270.61,Card,Regular,Anil,111,April
+INV00103,2025-04-15,Rice 5kg,Grocery,India Gate,ABC Suppliers,3,450,31,1319,945.05,373.95,Cash,Regular,Sneha,99,April
+INV00104,2025-07-31,Shampoo,Personal Care,Clinic Plus,Metro Distributors,5,220,21,1079,843.53,235.47,Cash,New,Priya,24,July
+INV00105,2025-11-03,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,26,169,117.09,51.91,Card,New,Anil,83,November
+INV00106,2025-09-08,Shampoo,Personal Care,Clinic Plus,XYZ Traders,1,220,1,219,148.01,70.99,Card,Regular,Sneha,147,September
+INV00107,2025-11-28,Bread,Bakery,Britannia,XYZ Traders,2,45,18,72,52.33,19.67,Cash,Regular,Sneha,113,November
+INV00108,2025-04-20,Soap,Personal Care,Lux,Fresh Foods,4,40,17,143,100.66,42.34,Card,New,Priya,31,April
+INV00109,2025-02-09,Sugar 1kg,Grocery,Madhur,Fresh Foods,4,55,28,192,132.92,59.08,Card,Regular,Priya,124,February
+INV00110,2025-03-29,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,3,45,3,132,90.75,41.25,UPI,Regular,Priya,37,March
+INV00111,2025-09-30,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,33,627,421.39,205.61,Card,Regular,Sneha,46,September
+INV00112,2025-12-03,Sugar 1kg,Grocery,Madhur,Metro Distributors,1,55,21,34,26.57,7.43,Cash,Regular,Sneha,87,December
+INV00113,2025-08-24,Bread,Bakery,Britannia,Metro Distributors,1,45,22,23,17.63,5.37,Cash,New,Ravi,92,August
+INV00114,2025-10-02,Bread,Bakery,Britannia,XYZ Traders,4,45,4,176,130.6,45.4,UPI,Regular,Anil,146,October
+INV00115,2025-01-14,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,19,176,124.29,51.71,Card,New,Sneha,105,January
+INV00116,2025-10-31,Soap,Personal Care,Lux,XYZ Traders,3,40,18,102,80.12,21.88,Card,New,Ravi,27,October
+INV00117,2025-01-17,Cooking Oil,Grocery,Fortune,XYZ Traders,4,180,11,709,542.55,166.45,Cash,Regular,Ravi,46,January
+INV00118,2025-11-27,Sugar 1kg,Grocery,Madhur,ABC Suppliers,2,55,0,110,80.92,29.08,UPI,New,Sneha,63,November
+INV00119,2025-01-31,Bread,Bakery,Britannia,XYZ Traders,1,45,39,6,4.5,1.5,Card,New,Priya,25,January
+INV00120,2025-07-07,Sugar 1kg,Grocery,Madhur,XYZ Traders,4,55,11,209,147.45,61.55,Cash,New,Priya,27,July
+INV00121,2025-02-06,Sugar 1kg,Grocery,Madhur,Metro Distributors,1,55,1,54,39.13,14.87,Cash,New,Sneha,81,February
+INV00122,2025-11-20,Soap,Personal Care,Lux,Metro Distributors,3,40,40,80,57.67,22.33,Card,New,Ravi,123,November
+INV00123,2025-06-19,Biscuits,Snacks,Parle,Fresh Foods,3,30,14,76,59.42,16.58,Cash,New,Priya,41,June
+INV00124,2025-06-08,Milk 1L,Dairy,Amul,Metro Distributors,3,65,33,162,119.06,42.94,UPI,Regular,Ravi,17,June
+INV00125,2025-10-23,Soap,Personal Care,Lux,ABC Suppliers,2,40,21,59,46.42,12.58,UPI,New,Priya,87,October
+INV00126,2025-03-01,Milk 1L,Dairy,Amul,Fresh Foods,2,65,35,95,72.9,22.1,Card,Regular,Anil,139,March
+INV00127,2025-06-07,Rice 5kg,Grocery,India Gate,Metro Distributors,3,450,29,1321,914.44,406.56,Cash,Regular,Priya,143,June
+INV00128,2025-02-04,Sugar 1kg,Grocery,Madhur,XYZ Traders,2,55,31,79,56.73,22.27,UPI,New,Priya,39,February
+INV00129,2025-05-07,Bread,Bakery,Britannia,Metro Distributors,2,45,2,88,61.36,26.64,Card,Regular,Priya,74,May
+INV00130,2025-10-13,Cooking Oil,Grocery,Fortune,Fresh Foods,2,180,3,357,244.81,112.19,Cash,Regular,Ravi,83,October
+INV00131,2025-01-04,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,23,637,479.92,157.08,Card,New,Priya,140,January
+INV00132,2025-03-11,Soft Drink,Beverages,Coca-Cola,Fresh Foods,4,45,34,146,110.15,35.85,Card,New,Sneha,39,March
+INV00133,2025-10-30,Bread,Bakery,Britannia,Metro Distributors,2,45,28,62,49.06,12.94,Card,New,Priya,53,October
+INV00134,2025-10-12,Cooking Oil,Grocery,Fortune,ABC Suppliers,5,180,18,882,677.26,204.74,Cash,Regular,Anil,126,October
+INV00135,2025-09-02,Cooking Oil,Grocery,Fortune,Fresh Foods,4,180,23,697,482.36,214.64,UPI,New,Anil,17,September
+INV00136,2025-10-10,Rice 5kg,Grocery,India Gate,Fresh Foods,2,450,10,890,600.34,289.66,Cash,Regular,Priya,137,October
+INV00137,2025-12-24,Sugar 1kg,Grocery,Madhur,Metro Distributors,2,55,21,89,59.55,29.45,UPI,New,Ravi,112,December
+INV00138,2025-08-14,Soft Drink,Beverages,Coca-Cola,Fresh Foods,3,45,26,109,71.92,37.08,Cash,Regular,Anil,132,August
+INV00139,2025-08-20,Cooking Oil,Grocery,Fortune,XYZ Traders,5,180,37,863,681.76,181.24,Card,Regular,Priya,121,August
+INV00140,2025-07-04,Bread,Bakery,Britannia,XYZ Traders,2,45,19,71,48.24,22.76,Card,Regular,Anil,135,July
+INV00141,2025-07-28,Rice 5kg,Grocery,India Gate,XYZ Traders,1,450,34,416,294.53,121.47,UPI,New,Priya,68,July
+INV00142,2025-04-16,Bread,Bakery,Britannia,Fresh Foods,3,45,39,96,64.17,31.83,Card,Regular,Sneha,92,April
+INV00143,2025-01-06,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,38,502,347.94,154.06,Cash,Regular,Anil,40,January
+INV00144,2025-09-29,Biscuits,Snacks,Parle,XYZ Traders,1,30,34,-4,-3.07,-0.93,UPI,New,Sneha,64,September
+INV00145,2025-08-14,Bread,Bakery,Britannia,Metro Distributors,4,45,36,144,99.32,44.68,Card,New,Sneha,18,August
+INV00146,2025-08-25,Rice 5kg,Grocery,India Gate,Fresh Foods,4,450,0,1800,1356.68,443.32,Cash,New,Sneha,45,August
+INV00147,2025-06-09,Rice 5kg,Grocery,India Gate,XYZ Traders,5,450,10,2240,1540.56,699.44,Card,Regular,Sneha,141,June
+INV00148,2025-11-11,Soap,Personal Care,Lux,ABC Suppliers,5,40,2,198,151.27,46.73,Cash,New,Anil,137,November
+INV00149,2025-02-25,Sugar 1kg,Grocery,Madhur,XYZ Traders,2,55,6,104,69.97,34.03,UPI,Regular,Sneha,91,February
+INV00150,2025-03-22,Soap,Personal Care,Lux,Fresh Foods,4,40,17,143,107.62,35.38,Card,Regular,Sneha,5,March
+INV00151,2025-05-17,Cooking Oil,Grocery,Fortune,Metro Distributors,3,180,2,538,422.54,115.46,UPI,New,Priya,140,May
+INV00152,2025-10-31,Cooking Oil,Grocery,Fortune,ABC Suppliers,3,180,37,503,401.33,101.67,Cash,Regular,Anil,79,October
+INV00153,2025-03-28,Shampoo,Personal Care,Clinic Plus,Fresh Foods,1,220,13,207,154.99,52.01,Card,Regular,Anil,63,March
+INV00154,2025-04-23,Biscuits,Snacks,Parle,ABC Suppliers,2,30,3,57,38.34,18.66,Cash,New,Ravi,9,April
+INV00155,2025-03-13,Toothpaste,Personal Care,Colgate,Metro Distributors,1,110,28,82,54.2,27.8,Card,Regular,Priya,108,March
+INV00156,2025-05-14,Rice 5kg,Grocery,India Gate,Fresh Foods,3,450,25,1325,928.08,396.92,UPI,Regular,Sneha,34,May
+INV00157,2025-08-13,Soft Drink,Beverages,Coca-Cola,XYZ Traders,5,45,29,196,148.19,47.81,Card,Regular,Priya,110,August
+INV00158,2025-09-18,Cooking Oil,Grocery,Fortune,Fresh Foods,1,180,16,164,129.09,34.91,Cash,Regular,Priya,43,September
+INV00159,2025-01-05,Rice 5kg,Grocery,India Gate,XYZ Traders,2,450,26,874,650.26,223.74,UPI,Regular,Anil,144,January
+INV00160,2025-11-25,Soap,Personal Care,Lux,ABC Suppliers,2,40,18,62,48.99,13.01,UPI,Regular,Anil,126,November
+INV00161,2025-12-16,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,2,45,21,69,48.13,20.87,Card,New,Sneha,44,December
+INV00162,2025-02-18,Soft Drink,Beverages,Coca-Cola,XYZ Traders,3,45,8,127,86.14,40.86,Cash,Regular,Anil,60,February
+INV00163,2025-12-24,Bread,Bakery,Britannia,ABC Suppliers,2,45,22,68,53.87,14.13,Cash,New,Sneha,27,December
+INV00164,2025-12-23,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,4,45,1,179,134.46,44.54,Cash,Regular,Priya,125,December
+INV00165,2025-06-03,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,5,45,39,186,122.75,63.25,Card,Regular,Anil,103,June
+INV00166,2025-10-17,Shampoo,Personal Care,Clinic Plus,Fresh Foods,4,220,13,867,605.98,261.02,UPI,Regular,Anil,56,October
+INV00167,2025-11-14,Soft Drink,Beverages,Coca-Cola,XYZ Traders,3,45,37,98,69.3,28.7,UPI,Regular,Priya,136,November
+INV00168,2025-07-25,Soap,Personal Care,Lux,Metro Distributors,5,40,5,195,144.6,50.4,UPI,Regular,Ravi,81,July
+INV00169,2025-04-30,Milk 1L,Dairy,Amul,Metro Distributors,2,65,0,130,102.64,27.36,UPI,Regular,Priya,98,April
+INV00170,2025-02-10,Bread,Bakery,Britannia,Metro Distributors,5,45,12,213,151.67,61.33,Card,New,Ravi,51,February
+INV00171,2025-04-23,Soap,Personal Care,Lux,Fresh Foods,4,40,18,142,112.04,29.96,Cash,New,Priya,34,April
+INV00172,2025-11-12,Sugar 1kg,Grocery,Madhur,Metro Distributors,5,55,2,273,199.54,73.46,Card,New,Anil,25,November
+INV00173,2025-08-07,Soap,Personal Care,Lux,Fresh Foods,4,40,27,133,92.24,40.76,UPI,Regular,Priya,46,August
+INV00174,2025-06-20,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,5,45,11,214,145.7,68.3,Card,New,Priya,136,June
+INV00175,2025-02-18,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,34,626,463.21,162.79,Cash,New,Ravi,71,February
+INV00176,2025-07-08,Biscuits,Snacks,Parle,Metro Distributors,3,30,0,90,68.93,21.07,UPI,New,Ravi,56,July
+INV00177,2025-09-21,Milk 1L,Dairy,Amul,XYZ Traders,5,65,36,289,197.11,91.89,Card,Regular,Sneha,77,September
+INV00178,2025-11-11,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,5,220,14,1086,738.31,347.69,Cash,New,Sneha,132,November
+INV00179,2025-06-25,Rice 5kg,Grocery,India Gate,ABC Suppliers,3,450,11,1339,920.62,418.38,UPI,Regular,Priya,57,June
+INV00180,2025-06-15,Soap,Personal Care,Lux,ABC Suppliers,1,40,38,2,1.36,0.64,Card,New,Sneha,70,June
+INV00181,2025-10-02,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,1,45,26,19,14.78,4.22,Card,New,Sneha,89,October
+INV00182,2025-08-14,Milk 1L,Dairy,Amul,XYZ Traders,4,65,36,224,162.79,61.21,UPI,New,Ravi,19,August
+INV00183,2025-07-23,Sugar 1kg,Grocery,Madhur,Fresh Foods,5,55,0,275,197.03,77.97,Card,New,Ravi,123,July
+INV00184,2025-05-17,Bread,Bakery,Britannia,Fresh Foods,3,45,5,130,88.03,41.97,Card,New,Anil,11,May
+INV00185,2025-11-09,Biscuits,Snacks,Parle,Metro Distributors,3,30,36,54,41.17,12.83,UPI,New,Ravi,33,November
+INV00186,2025-07-15,Bread,Bakery,Britannia,Fresh Foods,4,45,37,143,104.46,38.54,Cash,New,Priya,140,July
+INV00187,2025-08-14,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,11,649,510.13,138.87,UPI,Regular,Priya,17,August
+INV00188,2025-03-20,Biscuits,Snacks,Parle,Fresh Foods,3,30,24,66,51.42,14.58,UPI,New,Sneha,59,March
+INV00189,2025-01-05,Toothpaste,Personal Care,Colgate,ABC Suppliers,5,110,35,515,403.41,111.59,UPI,New,Priya,84,January
+INV00190,2025-11-02,Biscuits,Snacks,Parle,Metro Distributors,5,30,0,150,110.31,39.69,UPI,New,Ravi,31,November
+INV00191,2025-07-15,Toothpaste,Personal Care,Colgate,Metro Distributors,4,110,38,402,279.65,122.35,Card,New,Sneha,121,July
+INV00192,2025-10-13,Soft Drink,Beverages,Coca-Cola,Fresh Foods,1,45,39,6,3.99,2.01,UPI,New,Ravi,30,October
+INV00193,2025-07-01,Biscuits,Snacks,Parle,Fresh Foods,3,30,37,53,36.28,16.72,Card,Regular,Anil,45,July
+INV00194,2025-07-19,Toothpaste,Personal Care,Colgate,XYZ Traders,2,110,38,182,134.15,47.85,Cash,New,Ravi,139,July
+INV00195,2025-05-29,Shampoo,Personal Care,Clinic Plus,Fresh Foods,1,220,32,188,142.99,45.01,UPI,Regular,Ravi,22,May
+INV00196,2025-07-09,Biscuits,Snacks,Parle,ABC Suppliers,1,30,23,7,4.6,2.4,Card,New,Priya,89,July
+INV00197,2025-08-09,Rice 5kg,Grocery,India Gate,Fresh Foods,1,450,1,449,345.26,103.74,Card,New,Ravi,21,August
+INV00198,2025-04-10,Soft Drink,Beverages,Coca-Cola,XYZ Traders,4,45,6,174,125.35,48.65,Cash,New,Ravi,87,April
+INV00199,2025-03-20,Soap,Personal Care,Lux,Metro Distributors,1,40,20,20,15.19,4.81,Card,Regular,Ravi,40,March
+INV00200,2025-06-09,Bread,Bakery,Britannia,Fresh Foods,1,45,8,37,28.87,8.13,Cash,New,Sneha,115,June
+INV00201,2025-01-26,Rice 5kg,Grocery,India Gate,Metro Distributors,2,450,30,870,588.98,281.02,UPI,New,Anil,113,January
+INV00202,2025-03-07,Sugar 1kg,Grocery,Madhur,Metro Distributors,4,55,34,186,135.91,50.09,Cash,New,Anil,119,March
+INV00203,2025-12-31,Soap,Personal Care,Lux,XYZ Traders,2,40,20,60,47.23,12.77,UPI,Regular,Sneha,78,December
+INV00204,2025-05-15,Sugar 1kg,Grocery,Madhur,XYZ Traders,5,55,21,254,184.67,69.33,Card,Regular,Anil,33,May
+INV00205,2025-11-25,Bread,Bakery,Britannia,Fresh Foods,1,45,28,17,12.23,4.77,Cash,Regular,Ravi,83,November
+INV00206,2025-11-13,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,25,170,134.55,35.45,Card,New,Anil,47,November
+INV00207,2025-04-29,Cooking Oil,Grocery,Fortune,Fresh Foods,3,180,24,516,346.99,169.01,Cash,New,Anil,112,April
+INV00208,2025-12-17,Soft Drink,Beverages,Coca-Cola,Fresh Foods,1,45,4,41,31.25,9.75,Cash,Regular,Sneha,6,December
+INV00209,2025-01-09,Rice 5kg,Grocery,India Gate,Fresh Foods,5,450,15,2235,1692.67,542.33,Cash,New,Anil,129,January
+INV00210,2025-12-23,Milk 1L,Dairy,Amul,Metro Distributors,3,65,34,161,117.14,43.86,Card,Regular,Ravi,109,December
+INV00211,2025-07-18,Toothpaste,Personal Care,Colgate,Fresh Foods,2,110,0,220,151.28,68.72,UPI,New,Sneha,63,July
+INV00212,2025-11-01,Biscuits,Snacks,Parle,ABC Suppliers,5,30,40,110,78.08,31.92,UPI,New,Sneha,18,November
+INV00213,2025-11-26,Milk 1L,Dairy,Amul,ABC Suppliers,2,65,17,113,85.06,27.94,UPI,Regular,Sneha,44,November
+INV00214,2025-10-12,Toothpaste,Personal Care,Colgate,Metro Distributors,4,110,28,412,280.41,131.59,Cash,Regular,Ravi,72,October
+INV00215,2025-04-30,Cooking Oil,Grocery,Fortune,ABC Suppliers,1,180,39,141,94.1,46.9,UPI,Regular,Sneha,18,April
+INV00216,2025-05-08,Toothpaste,Personal Care,Colgate,ABC Suppliers,4,110,25,415,308.73,106.27,Cash,Regular,Ravi,143,May
+INV00217,2025-10-24,Sugar 1kg,Grocery,Madhur,Fresh Foods,5,55,13,262,202.62,59.38,UPI,Regular,Sneha,107,October
+INV00218,2025-10-20,Biscuits,Snacks,Parle,Metro Distributors,4,30,0,120,84.01,35.99,Card,New,Sneha,45,October
+INV00219,2025-04-08,Soap,Personal Care,Lux,XYZ Traders,1,40,17,23,16.1,6.9,UPI,Regular,Priya,121,April
+INV00220,2025-10-12,Milk 1L,Dairy,Amul,XYZ Traders,2,65,40,90,69.98,20.02,Cash,Regular,Sneha,46,October
+INV00221,2025-07-16,Toothpaste,Personal Care,Colgate,Fresh Foods,3,110,11,319,208.71,110.29,Cash,New,Sneha,137,July
+INV00222,2025-08-25,Milk 1L,Dairy,Amul,XYZ Traders,1,65,31,34,23.26,10.74,Cash,Regular,Ravi,16,August
+INV00223,2025-01-28,Sugar 1kg,Grocery,Madhur,Metro Distributors,1,55,18,37,27.64,9.36,UPI,Regular,Sneha,36,January
+INV00224,2025-03-15,Biscuits,Snacks,Parle,XYZ Traders,1,30,22,8,6.21,1.79,Card,Regular,Sneha,112,March
+INV00225,2025-11-24,Cooking Oil,Grocery,Fortune,XYZ Traders,1,180,13,167,109.47,57.53,Card,Regular,Anil,19,November
+INV00226,2025-12-09,Soft Drink,Beverages,Coca-Cola,XYZ Traders,4,45,38,142,97.49,44.51,Cash,New,Anil,133,December
+INV00227,2025-01-12,Sugar 1kg,Grocery,Madhur,XYZ Traders,4,55,21,199,154.31,44.69,Cash,New,Sneha,35,January
+INV00228,2025-01-01,Milk 1L,Dairy,Amul,Metro Distributors,2,65,7,123,81.3,41.7,UPI,New,Ravi,71,January
+INV00229,2025-01-04,Sugar 1kg,Grocery,Madhur,Fresh Foods,3,55,7,158,108.59,49.41,Card,Regular,Ravi,101,January
+INV00230,2025-01-23,Biscuits,Snacks,Parle,ABC Suppliers,1,30,17,13,9.94,3.06,Card,Regular,Anil,47,January
+INV00231,2025-10-07,Milk 1L,Dairy,Amul,Fresh Foods,3,65,10,185,126.73,58.27,UPI,New,Anil,109,October
+INV00232,2025-11-08,Bread,Bakery,Britannia,ABC Suppliers,4,45,19,161,116.46,44.54,Cash,Regular,Priya,134,November
+INV00233,2025-10-25,Biscuits,Snacks,Parle,Metro Distributors,4,30,37,83,60.63,22.37,Card,New,Ravi,76,October
+INV00234,2025-06-29,Biscuits,Snacks,Parle,XYZ Traders,5,30,18,132,105.15,26.85,UPI,Regular,Sneha,132,June
+INV00235,2025-11-05,Biscuits,Snacks,Parle,ABC Suppliers,3,30,17,73,53.5,19.5,Card,Regular,Anil,16,November
+INV00236,2025-03-02,Biscuits,Snacks,Parle,Metro Distributors,3,30,12,78,51.8,26.2,Card,New,Priya,44,March
+INV00237,2025-10-26,Soap,Personal Care,Lux,Fresh Foods,5,40,18,182,118.79,63.21,Card,Regular,Sneha,72,October
+INV00238,2025-05-08,Toothpaste,Personal Care,Colgate,ABC Suppliers,2,110,8,212,154.9,57.1,Cash,New,Ravi,146,May
+INV00239,2025-05-11,Milk 1L,Dairy,Amul,Metro Distributors,1,65,16,49,38.19,10.81,Cash,New,Ravi,138,May
+INV00240,2025-06-04,Milk 1L,Dairy,Amul,XYZ Traders,1,65,20,45,30.0,15.0,Card,Regular,Ravi,97,June
+INV00241,2025-01-03,Biscuits,Snacks,Parle,XYZ Traders,5,30,28,122,89.85,32.15,Card,New,Anil,14,January
+INV00242,2025-11-29,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,11,649,439.6,209.4,Cash,New,Ravi,53,November
+INV00243,2025-05-29,Soap,Personal Care,Lux,Fresh Foods,4,40,35,125,93.11,31.89,UPI,Regular,Anil,136,May
+INV00244,2025-03-28,Biscuits,Snacks,Parle,ABC Suppliers,3,30,4,86,59.76,26.24,Card,Regular,Sneha,147,March
+INV00245,2025-05-20,Milk 1L,Dairy,Amul,Fresh Foods,3,65,26,169,127.07,41.93,Card,Regular,Anil,139,May
+INV00246,2025-10-10,Bread,Bakery,Britannia,ABC Suppliers,1,45,15,30,23.4,6.6,Card,Regular,Ravi,97,October
+INV00247,2025-06-25,Rice 5kg,Grocery,India Gate,Fresh Foods,4,450,3,1797,1437.34,359.66,UPI,New,Sneha,109,June
+INV00248,2025-10-24,Toothpaste,Personal Care,Colgate,Fresh Foods,2,110,13,207,149.93,57.07,UPI,New,Anil,66,October
+INV00249,2025-07-29,Sugar 1kg,Grocery,Madhur,XYZ Traders,2,55,26,84,56.27,27.73,Cash,Regular,Ravi,72,July
+INV00250,2025-01-26,Biscuits,Snacks,Parle,Fresh Foods,5,30,9,141,92.98,48.02,UPI,New,Ravi,113,January
+INV00251,2025-01-04,Rice 5kg,Grocery,India Gate,Metro Distributors,1,450,32,418,298.32,119.68,UPI,Regular,Priya,78,January
+INV00252,2025-08-24,Bread,Bakery,Britannia,ABC Suppliers,2,45,7,83,64.95,18.05,Card,New,Sneha,135,August
+INV00253,2025-04-08,Bread,Bakery,Britannia,XYZ Traders,1,45,40,5,3.5,1.5,UPI,New,Anil,102,April
+INV00254,2025-03-04,Bread,Bakery,Britannia,ABC Suppliers,3,45,24,111,87.84,23.16,Cash,Regular,Ravi,91,March
+INV00255,2025-12-31,Cooking Oil,Grocery,Fortune,ABC Suppliers,4,180,4,716,481.94,234.06,Cash,Regular,Sneha,72,December
+INV00256,2025-07-15,Soft Drink,Beverages,Coca-Cola,Fresh Foods,5,45,40,185,123.35,61.65,Card,New,Anil,97,July
+INV00257,2025-11-17,Soap,Personal Care,Lux,Fresh Foods,4,40,17,143,101.41,41.59,Cash,New,Anil,86,November
+INV00258,2025-10-21,Milk 1L,Dairy,Amul,Fresh Foods,4,65,11,249,198.48,50.52,UPI,Regular,Sneha,11,October
+INV00259,2025-12-14,Shampoo,Personal Care,Clinic Plus,XYZ Traders,1,220,9,211,157.29,53.71,Cash,Regular,Priya,6,December
+INV00260,2025-02-02,Shampoo,Personal Care,Clinic Plus,XYZ Traders,5,220,35,1065,809.22,255.78,Card,New,Sneha,35,February
+INV00261,2025-12-22,Cooking Oil,Grocery,Fortune,Metro Distributors,5,180,3,897,615.02,281.98,Cash,Regular,Sneha,81,December
+INV00262,2025-04-26,Toothpaste,Personal Care,Colgate,XYZ Traders,3,110,1,329,262.23,66.77,UPI,New,Priya,39,April
+INV00263,2025-05-20,Milk 1L,Dairy,Amul,Fresh Foods,1,65,6,59,45.2,13.8,UPI,Regular,Ravi,114,May
+INV00264,2025-07-28,Sugar 1kg,Grocery,Madhur,ABC Suppliers,4,55,39,181,136.85,44.15,UPI,Regular,Anil,67,July
+INV00265,2025-04-14,Cooking Oil,Grocery,Fortune,ABC Suppliers,3,180,3,537,424.13,112.87,Cash,Regular,Priya,75,April
+INV00266,2025-11-06,Soft Drink,Beverages,Coca-Cola,XYZ Traders,2,45,29,61,43.16,17.84,Card,New,Ravi,87,November
+INV00267,2025-07-20,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,1,220,1,219,172.32,46.68,Card,Regular,Sneha,37,July
+INV00268,2025-08-23,Toothpaste,Personal Care,Colgate,XYZ Traders,1,110,24,86,57.17,28.83,UPI,Regular,Ravi,82,August
+INV00269,2025-06-17,Toothpaste,Personal Care,Colgate,Fresh Foods,2,110,35,185,128.29,56.71,UPI,Regular,Ravi,132,June
+INV00270,2025-09-21,Shampoo,Personal Care,Clinic Plus,XYZ Traders,4,220,3,877,664.72,212.28,Cash,New,Ravi,24,September
+INV00271,2025-11-23,Biscuits,Snacks,Parle,ABC Suppliers,3,30,25,65,50.01,14.99,UPI,New,Priya,122,November
+INV00272,2025-06-13,Rice 5kg,Grocery,India Gate,XYZ Traders,3,450,10,1340,877.21,462.79,Card,New,Anil,61,June
+INV00273,2025-12-18,Cooking Oil,Grocery,Fortune,Metro Distributors,2,180,23,337,249.36,87.64,Cash,New,Anil,53,December
+INV00274,2025-09-19,Rice 5kg,Grocery,India Gate,Metro Distributors,2,450,20,880,700.17,179.83,Card,Regular,Anil,79,September
+INV00275,2025-04-02,Biscuits,Snacks,Parle,XYZ Traders,4,30,11,109,84.48,24.52,Cash,New,Ravi,18,April
+INV00276,2025-07-30,Toothpaste,Personal Care,Colgate,Fresh Foods,3,110,34,296,220.51,75.49,UPI,Regular,Sneha,48,July
+INV00277,2025-05-15,Milk 1L,Dairy,Amul,XYZ Traders,1,65,15,50,33.83,16.17,Card,Regular,Priya,62,May
+INV00278,2025-08-12,Shampoo,Personal Care,Clinic Plus,XYZ Traders,2,220,32,408,320.12,87.88,UPI,New,Anil,11,August
+INV00279,2025-08-22,Shampoo,Personal Care,Clinic Plus,XYZ Traders,1,220,18,202,151.51,50.49,Cash,New,Sneha,21,August
+INV00280,2025-03-23,Soft Drink,Beverages,Coca-Cola,XYZ Traders,4,45,10,170,126.47,43.53,UPI,Regular,Sneha,8,March
+INV00281,2025-03-02,Rice 5kg,Grocery,India Gate,Fresh Foods,2,450,7,893,706.28,186.72,Card,Regular,Ravi,55,March
+INV00282,2025-02-22,Milk 1L,Dairy,Amul,Metro Distributors,4,65,34,226,171.54,54.46,Cash,New,Ravi,64,February
+INV00283,2025-05-23,Rice 5kg,Grocery,India Gate,ABC Suppliers,3,450,6,1344,1022.75,321.25,Card,New,Ravi,28,May
+INV00284,2025-11-23,Soap,Personal Care,Lux,Fresh Foods,4,40,3,157,108.93,48.07,Card,New,Priya,61,November
+INV00285,2025-09-15,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,5,220,4,1096,731.59,364.41,Cash,New,Anil,100,September
+INV00286,2025-04-19,Soap,Personal Care,Lux,ABC Suppliers,3,40,13,107,71.99,35.01,Cash,Regular,Sneha,62,April
+INV00287,2025-12-31,Bread,Bakery,Britannia,ABC Suppliers,5,45,2,223,168.81,54.19,Card,Regular,Anil,62,December
+INV00288,2025-04-27,Shampoo,Personal Care,Clinic Plus,Metro Distributors,2,220,13,427,280.66,146.34,Cash,New,Priya,47,April
+INV00289,2025-03-21,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,19,521,340.59,180.41,Cash,Regular,Sneha,53,March
+INV00290,2025-05-21,Sugar 1kg,Grocery,Madhur,ABC Suppliers,2,55,27,83,62.06,20.94,Cash,New,Ravi,42,May
+INV00291,2025-11-18,Shampoo,Personal Care,Clinic Plus,Metro Distributors,3,220,29,631,420.37,210.63,Cash,Regular,Priya,129,November
+INV00292,2025-04-29,Bread,Bakery,Britannia,Fresh Foods,3,45,26,109,72.28,36.72,UPI,Regular,Ravi,21,April
+INV00293,2025-09-09,Biscuits,Snacks,Parle,ABC Suppliers,2,30,36,24,17.69,6.31,UPI,Regular,Priya,127,September
+INV00294,2025-10-11,Cooking Oil,Grocery,Fortune,Metro Distributors,3,180,21,519,360.89,158.11,Card,New,Anil,96,October
+INV00295,2025-07-07,Sugar 1kg,Grocery,Madhur,Metro Distributors,3,55,5,160,123.76,36.24,UPI,New,Sneha,65,July
+INV00296,2025-12-29,Toothpaste,Personal Care,Colgate,Metro Distributors,1,110,31,79,51.82,27.18,UPI,Regular,Anil,126,December
+INV00297,2025-05-27,Biscuits,Snacks,Parle,Fresh Foods,3,30,19,71,53.82,17.18,Card,New,Anil,58,May
+INV00298,2025-11-21,Sugar 1kg,Grocery,Madhur,XYZ Traders,5,55,0,275,205.64,69.36,Cash,New,Sneha,62,November
+INV00299,2025-10-15,Shampoo,Personal Care,Clinic Plus,XYZ Traders,2,220,13,427,326.75,100.25,UPI,Regular,Ravi,107,October
+INV00300,2025-08-25,Shampoo,Personal Care,Clinic Plus,XYZ Traders,2,220,14,426,332.94,93.06,Cash,Regular,Anil,140,August
+INV00301,2025-06-04,Biscuits,Snacks,Parle,ABC Suppliers,1,30,26,4,2.97,1.03,UPI,New,Sneha,97,June
+INV00302,2025-07-13,Milk 1L,Dairy,Amul,XYZ Traders,4,65,39,221,175.67,45.33,Card,New,Priya,27,July
+INV00303,2025-01-21,Rice 5kg,Grocery,India Gate,ABC Suppliers,4,450,18,1782,1410.07,371.93,UPI,Regular,Ravi,116,January
+INV00304,2025-11-28,Sugar 1kg,Grocery,Madhur,Metro Distributors,4,55,18,202,139.93,62.07,UPI,Regular,Priya,124,November
+INV00305,2025-06-21,Toothpaste,Personal Care,Colgate,XYZ Traders,5,110,11,539,398.82,140.18,UPI,Regular,Ravi,74,June
+INV00306,2025-07-31,Rice 5kg,Grocery,India Gate,ABC Suppliers,1,450,8,442,291.8,150.2,Cash,New,Ravi,11,July
+INV00307,2025-11-16,Shampoo,Personal Care,Clinic Plus,XYZ Traders,5,220,30,1070,780.76,289.24,Cash,New,Anil,117,November
+INV00308,2025-12-04,Rice 5kg,Grocery,India Gate,Fresh Foods,4,450,29,1771,1388.4,382.6,Card,Regular,Priya,145,December
+INV00309,2025-09-03,Cooking Oil,Grocery,Fortune,Fresh Foods,4,180,12,708,464.81,243.19,Cash,New,Anil,8,September
+INV00310,2025-05-30,Cooking Oil,Grocery,Fortune,Metro Distributors,2,180,24,336,227.04,108.96,Card,New,Anil,48,May
+INV00311,2025-08-10,Cooking Oil,Grocery,Fortune,Metro Distributors,1,180,11,169,117.5,51.5,Cash,New,Sneha,142,August
+INV00312,2025-11-19,Rice 5kg,Grocery,India Gate,XYZ Traders,1,450,24,426,336.14,89.86,Card,New,Anil,142,November
+INV00313,2025-04-28,Soap,Personal Care,Lux,Metro Distributors,5,40,32,168,129.42,38.58,Card,New,Ravi,101,April
+INV00314,2025-04-23,Milk 1L,Dairy,Amul,Fresh Foods,1,65,30,35,23.65,11.35,Card,New,Sneha,35,April
+INV00315,2025-07-15,Biscuits,Snacks,Parle,XYZ Traders,4,30,24,96,69.67,26.33,Card,New,Ravi,144,July
+INV00316,2025-10-28,Bread,Bakery,Britannia,Metro Distributors,2,45,20,70,54.01,15.99,Card,Regular,Sneha,56,October
+INV00317,2025-03-11,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,5,45,27,198,146.65,51.35,Card,Regular,Anil,95,March
+INV00318,2025-12-28,Bread,Bakery,Britannia,Fresh Foods,3,45,31,104,79.33,24.67,Cash,New,Anil,110,December
+INV00319,2025-08-01,Bread,Bakery,Britannia,XYZ Traders,5,45,15,210,160.94,49.06,UPI,New,Sneha,109,August
+INV00320,2025-06-29,Milk 1L,Dairy,Amul,Metro Distributors,3,65,14,181,130.21,50.79,Cash,Regular,Ravi,15,June
+INV00321,2025-06-24,Milk 1L,Dairy,Amul,Fresh Foods,1,65,27,38,26.9,11.1,UPI,New,Priya,54,June
+INV00322,2025-01-09,Bread,Bakery,Britannia,ABC Suppliers,1,45,4,41,31.95,9.05,Cash,Regular,Priya,105,January
+INV00323,2025-06-11,Biscuits,Snacks,Parle,Fresh Foods,1,30,18,12,9.33,2.67,Card,New,Priya,136,June
+INV00324,2025-05-06,Rice 5kg,Grocery,India Gate,XYZ Traders,1,450,18,432,323.78,108.22,Cash,Regular,Ravi,36,May
+INV00325,2025-03-08,Cooking Oil,Grocery,Fortune,XYZ Traders,5,180,40,860,597.99,262.01,UPI,Regular,Sneha,64,March
+INV00326,2025-09-30,Rice 5kg,Grocery,India Gate,Fresh Foods,5,450,15,2235,1734.51,500.49,Cash,Regular,Priya,55,September
+INV00327,2025-02-25,Milk 1L,Dairy,Amul,Metro Distributors,3,65,40,155,105.3,49.7,Card,Regular,Priya,140,February
+INV00328,2025-03-06,Rice 5kg,Grocery,India Gate,XYZ Traders,3,450,8,1342,915.94,426.06,Cash,Regular,Sneha,123,March
+INV00329,2025-05-02,Shampoo,Personal Care,Clinic Plus,Metro Distributors,5,220,33,1067,797.58,269.42,Cash,New,Sneha,110,May
+INV00330,2025-09-17,Milk 1L,Dairy,Amul,XYZ Traders,5,65,11,314,218.16,95.84,Card,New,Priya,141,September
+INV00331,2025-06-17,Milk 1L,Dairy,Amul,XYZ Traders,4,65,32,228,166.12,61.88,Cash,New,Anil,62,June
+INV00332,2025-06-08,Soap,Personal Care,Lux,XYZ Traders,3,40,38,82,61.59,20.41,Cash,New,Priya,121,June
+INV00333,2025-05-24,Biscuits,Snacks,Parle,XYZ Traders,5,30,30,120,79.23,40.77,Card,Regular,Anil,29,May
+INV00334,2025-03-07,Rice 5kg,Grocery,India Gate,Metro Distributors,5,450,33,2217,1589.83,627.17,UPI,New,Ravi,6,March
+INV00335,2025-08-22,Cooking Oil,Grocery,Fortune,ABC Suppliers,4,180,28,692,545.75,146.25,UPI,Regular,Ravi,20,August
+INV00336,2025-02-22,Milk 1L,Dairy,Amul,Metro Distributors,4,65,40,220,146.47,73.53,Card,New,Sneha,37,February
+INV00337,2025-04-30,Bread,Bakery,Britannia,XYZ Traders,3,45,1,134,100.99,33.01,Cash,New,Ravi,8,April
+INV00338,2025-12-26,Soft Drink,Beverages,Coca-Cola,Metro Distributors,3,45,15,120,86.96,33.04,UPI,New,Priya,35,December
+INV00339,2025-04-22,Sugar 1kg,Grocery,Madhur,ABC Suppliers,1,55,18,37,25.09,11.91,UPI,Regular,Ravi,99,April
+INV00340,2025-11-30,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,3,220,12,648,447.73,200.27,Card,Regular,Priya,145,November
+INV00341,2025-01-02,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,15,180,118.31,61.69,Card,Regular,Priya,115,January
+INV00342,2025-04-29,Sugar 1kg,Grocery,Madhur,ABC Suppliers,1,55,38,17,12.93,4.07,Cash,Regular,Anil,144,April
+INV00343,2025-11-24,Soft Drink,Beverages,Coca-Cola,XYZ Traders,5,45,24,201,143.82,57.18,Cash,New,Anil,125,November
+INV00344,2025-10-24,Toothpaste,Personal Care,Colgate,ABC Suppliers,1,110,4,106,72.49,33.51,UPI,New,Sneha,111,October
+INV00345,2025-06-16,Sugar 1kg,Grocery,Madhur,ABC Suppliers,2,55,35,75,59.87,15.13,Card,Regular,Priya,36,June
+INV00346,2025-05-02,Toothpaste,Personal Care,Colgate,Fresh Foods,4,110,24,416,283.86,132.14,Card,Regular,Anil,107,May
+INV00347,2025-06-18,Rice 5kg,Grocery,India Gate,Fresh Foods,4,450,1,1799,1376.3,422.7,Card,Regular,Priya,18,June
+INV00348,2025-05-14,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,3,220,25,635,417.32,217.68,Cash,New,Sneha,71,May
+INV00349,2025-07-01,Toothpaste,Personal Care,Colgate,ABC Suppliers,4,110,15,425,308.28,116.72,UPI,New,Sneha,118,July
+INV00350,2025-04-22,Cooking Oil,Grocery,Fortune,XYZ Traders,1,180,11,169,130.89,38.11,UPI,Regular,Priya,148,April
+INV00351,2025-02-19,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,13,527,421.19,105.81,Card,Regular,Ravi,24,February
+INV00352,2025-11-22,Cooking Oil,Grocery,Fortune,XYZ Traders,1,180,16,164,112.11,51.89,Cash,New,Priya,5,November
+INV00353,2025-05-08,Soap,Personal Care,Lux,Metro Distributors,4,40,38,122,87.55,34.45,Cash,Regular,Sneha,94,May
+INV00354,2025-03-11,Biscuits,Snacks,Parle,Fresh Foods,1,30,4,26,18.29,7.71,Cash,New,Anil,82,March
+INV00355,2025-12-08,Biscuits,Snacks,Parle,Fresh Foods,4,30,39,81,58.32,22.68,UPI,New,Sneha,34,December
+INV00356,2025-01-26,Sugar 1kg,Grocery,Madhur,XYZ Traders,1,55,6,49,32.61,16.39,UPI,New,Anil,133,January
+INV00357,2025-12-18,Bread,Bakery,Britannia,Metro Distributors,1,45,31,14,9.47,4.53,UPI,Regular,Anil,44,December
+INV00358,2025-09-12,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,27,168,130.82,37.18,Card,New,Ravi,77,September
+INV00359,2025-11-05,Soap,Personal Care,Lux,Metro Distributors,5,40,38,162,126.3,35.7,UPI,New,Ravi,21,November
+INV00360,2025-08-03,Soft Drink,Beverages,Coca-Cola,Metro Distributors,1,45,38,7,5.59,1.41,Card,New,Priya,98,August
+INV00361,2025-03-19,Cooking Oil,Grocery,Fortune,XYZ Traders,3,180,12,528,363.9,164.1,UPI,Regular,Priya,146,March
+INV00362,2025-12-27,Cooking Oil,Grocery,Fortune,ABC Suppliers,5,180,21,879,677.2,201.8,Card,Regular,Priya,108,December
+INV00363,2025-10-05,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,15,645,435.35,209.65,Card,Regular,Ravi,44,October
+INV00364,2025-10-19,Biscuits,Snacks,Parle,Fresh Foods,1,30,9,21,16.06,4.94,Cash,Regular,Anil,39,October
+INV00365,2025-05-01,Biscuits,Snacks,Parle,ABC Suppliers,2,30,10,50,36.94,13.06,Card,Regular,Anil,25,May
+INV00366,2025-09-03,Biscuits,Snacks,Parle,Fresh Foods,4,30,16,104,76.68,27.32,Cash,New,Priya,16,September
+INV00367,2025-12-17,Rice 5kg,Grocery,India Gate,Fresh Foods,1,450,27,423,307.71,115.29,Card,Regular,Anil,41,December
+INV00368,2025-10-29,Soap,Personal Care,Lux,Fresh Foods,1,40,17,23,17.2,5.8,Card,Regular,Anil,93,October
+INV00369,2025-04-20,Toothpaste,Personal Care,Colgate,XYZ Traders,1,110,10,100,67.62,32.38,Cash,Regular,Priya,58,April
+INV00370,2025-03-18,Bread,Bakery,Britannia,Metro Distributors,5,45,22,203,148.79,54.21,Cash,Regular,Sneha,18,March
+INV00371,2025-11-04,Rice 5kg,Grocery,India Gate,ABC Suppliers,5,450,17,2233,1463.71,769.29,Card,Regular,Anil,99,November
+INV00372,2025-06-10,Sugar 1kg,Grocery,Madhur,Fresh Foods,4,55,2,218,169.16,48.84,UPI,Regular,Priya,11,June
+INV00373,2025-07-24,Rice 5kg,Grocery,India Gate,Fresh Foods,1,450,37,413,320.04,92.96,Cash,New,Anil,44,July
+INV00374,2025-12-26,Shampoo,Personal Care,Clinic Plus,Fresh Foods,2,220,1,439,350.05,88.95,Cash,Regular,Ravi,134,December
+INV00375,2025-09-06,Soap,Personal Care,Lux,Fresh Foods,1,40,22,18,13.72,4.28,UPI,Regular,Anil,55,September
+INV00376,2025-03-16,Toothpaste,Personal Care,Colgate,ABC Suppliers,5,110,20,530,363.87,166.13,Cash,Regular,Ravi,102,March
+INV00377,2025-09-01,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,12,648,518.26,129.74,Cash,Regular,Sneha,66,September
+INV00378,2025-01-17,Biscuits,Snacks,Parle,XYZ Traders,2,30,39,21,15.67,5.33,UPI,Regular,Priya,100,January
+INV00379,2025-11-30,Shampoo,Personal Care,Clinic Plus,Metro Distributors,2,220,15,425,310.46,114.54,Cash,Regular,Anil,43,November
+INV00380,2025-08-31,Sugar 1kg,Grocery,Madhur,XYZ Traders,1,55,30,25,18.66,6.34,Card,New,Sneha,134,August
+INV00381,2025-07-31,Toothpaste,Personal Care,Colgate,Fresh Foods,2,110,16,204,148.01,55.99,Cash,Regular,Sneha,107,July
+INV00382,2025-08-14,Biscuits,Snacks,Parle,ABC Suppliers,3,30,17,73,50.35,22.65,Card,Regular,Anil,63,August
+INV00383,2025-04-10,Toothpaste,Personal Care,Colgate,Metro Distributors,5,110,25,525,389.72,135.28,UPI,New,Priya,130,April
+INV00384,2025-11-18,Biscuits,Snacks,Parle,XYZ Traders,5,30,21,129,88.61,40.39,Cash,Regular,Ravi,149,November
+INV00385,2025-09-04,Cooking Oil,Grocery,Fortune,Metro Distributors,4,180,40,680,523.86,156.14,Cash,New,Priya,103,September
+INV00386,2025-10-15,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,7,653,435.84,217.16,Cash,Regular,Sneha,130,October
+INV00387,2025-04-16,Cooking Oil,Grocery,Fortune,Fresh Foods,3,180,40,500,338.73,161.27,UPI,Regular,Priya,92,April
+INV00388,2025-12-08,Biscuits,Snacks,Parle,Metro Distributors,1,30,24,6,4.48,1.52,Cash,New,Priya,64,December
+INV00389,2025-06-09,Bread,Bakery,Britannia,Metro Distributors,5,45,30,195,137.16,57.84,UPI,New,Ravi,116,June
+INV00390,2025-06-21,Cooking Oil,Grocery,Fortune,XYZ Traders,5,180,18,882,657.42,224.58,Card,New,Anil,98,June
+INV00391,2025-04-01,Soap,Personal Care,Lux,Fresh Foods,5,40,17,183,123.37,59.63,Cash,New,Anil,109,April
+INV00392,2025-05-22,Cooking Oil,Grocery,Fortune,Metro Distributors,1,180,36,144,113.24,30.76,Cash,New,Ravi,55,May
+INV00393,2025-09-13,Milk 1L,Dairy,Amul,XYZ Traders,3,65,21,174,138.43,35.57,Card,Regular,Anil,84,September
+INV00394,2025-10-26,Soap,Personal Care,Lux,Fresh Foods,3,40,3,117,89.53,27.47,Cash,Regular,Anil,19,October
+INV00395,2025-11-16,Rice 5kg,Grocery,India Gate,ABC Suppliers,3,450,26,1324,880.23,443.77,Card,Regular,Sneha,125,November
+INV00396,2025-08-14,Bread,Bakery,Britannia,Metro Distributors,4,45,8,172,127.92,44.08,Cash,Regular,Sneha,140,August
+INV00397,2025-08-04,Rice 5kg,Grocery,India Gate,Fresh Foods,3,450,25,1325,913.29,411.71,Card,New,Anil,68,August
+INV00398,2025-04-07,Sugar 1kg,Grocery,Madhur,Metro Distributors,2,55,6,104,80.33,23.67,UPI,Regular,Sneha,145,April
+INV00399,2025-08-07,Soft Drink,Beverages,Coca-Cola,Fresh Foods,5,45,24,201,130.87,70.13,Card,New,Anil,145,August
+INV00400,2025-10-09,Soap,Personal Care,Lux,Fresh Foods,2,40,4,76,52.66,23.34,UPI,Regular,Sneha,40,October
+INV00401,2025-12-13,Bread,Bakery,Britannia,XYZ Traders,1,45,32,13,9.07,3.93,UPI,New,Anil,40,December
+INV00402,2025-01-19,Milk 1L,Dairy,Amul,ABC Suppliers,3,65,6,189,144.43,44.57,Cash,Regular,Sneha,26,January
+INV00403,2025-01-09,Milk 1L,Dairy,Amul,Metro Distributors,1,65,18,47,36.53,10.47,Card,New,Anil,29,January
+INV00404,2025-07-19,Rice 5kg,Grocery,India Gate,Metro Distributors,1,450,27,423,300.8,122.2,Cash,New,Ravi,8,July
+INV00405,2025-10-16,Cooking Oil,Grocery,Fortune,XYZ Traders,5,180,7,893,634.08,258.92,UPI,New,Priya,79,October
+INV00406,2025-12-28,Soap,Personal Care,Lux,Fresh Foods,3,40,27,93,69.81,23.19,Cash,New,Priya,78,December
+INV00407,2025-05-05,Shampoo,Personal Care,Clinic Plus,Metro Distributors,1,220,5,215,140.07,74.93,Cash,Regular,Ravi,96,May
+INV00408,2025-02-25,Rice 5kg,Grocery,India Gate,XYZ Traders,1,450,19,431,296.51,134.49,Card,Regular,Priya,114,February
+INV00409,2025-11-28,Shampoo,Personal Care,Clinic Plus,Metro Distributors,1,220,22,198,149.72,48.28,Cash,New,Sneha,100,November
+INV00410,2025-07-14,Soft Drink,Beverages,Coca-Cola,XYZ Traders,4,45,12,168,114.48,53.52,Cash,New,Sneha,136,July
+INV00411,2025-01-29,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,1,220,17,203,134.64,68.36,UPI,New,Sneha,140,January
+INV00412,2025-08-02,Toothpaste,Personal Care,Colgate,Fresh Foods,3,110,7,323,218.31,104.69,Card,New,Anil,42,August
+INV00413,2025-04-12,Soft Drink,Beverages,Coca-Cola,Fresh Foods,1,45,17,28,19.03,8.97,Card,Regular,Ravi,53,April
+INV00414,2025-06-21,Biscuits,Snacks,Parle,Metro Distributors,4,30,21,99,76.03,22.97,Cash,Regular,Anil,13,June
+INV00415,2025-02-02,Toothpaste,Personal Care,Colgate,XYZ Traders,4,110,33,407,276.36,130.64,UPI,New,Ravi,150,February
+INV00416,2025-04-18,Milk 1L,Dairy,Amul,Fresh Foods,2,65,7,123,93.9,29.1,UPI,Regular,Priya,10,April
+INV00417,2025-01-28,Soap,Personal Care,Lux,Metro Distributors,1,40,25,15,11.33,3.67,Card,New,Sneha,97,January
+INV00418,2025-07-06,Soap,Personal Care,Lux,ABC Suppliers,3,40,12,108,71.4,36.6,Cash,New,Priya,116,July
+INV00419,2025-09-01,Bread,Bakery,Britannia,XYZ Traders,1,45,25,20,15.96,4.04,UPI,Regular,Anil,83,September
+INV00420,2025-12-21,Soft Drink,Beverages,Coca-Cola,Fresh Foods,4,45,5,175,136.92,38.08,UPI,New,Priya,150,December
+INV00421,2025-10-26,Rice 5kg,Grocery,India Gate,Metro Distributors,4,450,9,1791,1332.1,458.9,Card,Regular,Ravi,51,October
+INV00422,2025-05-23,Biscuits,Snacks,Parle,Metro Distributors,1,30,3,27,20.4,6.6,Cash,New,Sneha,72,May
+INV00423,2025-07-22,Toothpaste,Personal Care,Colgate,ABC Suppliers,5,110,8,542,377.0,165.0,Card,Regular,Priya,64,July
+INV00424,2025-11-25,Sugar 1kg,Grocery,Madhur,Fresh Foods,5,55,40,235,179.04,55.96,UPI,Regular,Sneha,63,November
+INV00425,2025-04-17,Toothpaste,Personal Care,Colgate,ABC Suppliers,4,110,29,411,292.45,118.55,Card,New,Anil,55,April
+INV00426,2025-09-26,Biscuits,Snacks,Parle,XYZ Traders,4,30,25,95,66.37,28.63,Cash,New,Ravi,76,September
+INV00427,2025-04-08,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,3,220,24,636,470.1,165.9,Card,Regular,Ravi,82,April
+INV00428,2025-09-06,Milk 1L,Dairy,Amul,ABC Suppliers,5,65,8,317,231.06,85.94,UPI,New,Priya,39,September
+INV00429,2025-03-21,Rice 5kg,Grocery,India Gate,Metro Distributors,2,450,37,863,565.92,297.08,Cash,Regular,Priya,149,March
+INV00430,2025-11-25,Cooking Oil,Grocery,Fortune,Fresh Foods,1,180,14,166,110.06,55.94,Cash,New,Ravi,27,November
+INV00431,2025-07-16,Bread,Bakery,Britannia,XYZ Traders,5,45,8,217,149.1,67.9,Card,Regular,Anil,121,July
+INV00432,2025-08-21,Biscuits,Snacks,Parle,ABC Suppliers,4,30,24,96,75.53,20.47,Card,New,Priya,132,August
+INV00433,2025-10-04,Cooking Oil,Grocery,Fortune,Fresh Foods,5,180,1,899,699.97,199.03,Card,Regular,Priya,41,October
+INV00434,2025-01-28,Biscuits,Snacks,Parle,ABC Suppliers,3,30,8,82,63.25,18.75,UPI,New,Ravi,123,January
+INV00435,2025-01-22,Shampoo,Personal Care,Clinic Plus,Metro Distributors,2,220,0,440,292.25,147.75,Card,New,Anil,90,January
+INV00436,2025-10-01,Soft Drink,Beverages,Coca-Cola,Fresh Foods,2,45,3,87,61.48,25.52,Cash,New,Priya,10,October
+INV00437,2025-03-12,Milk 1L,Dairy,Amul,Fresh Foods,3,65,37,158,113.24,44.76,UPI,New,Ravi,13,March
+INV00438,2025-08-15,Toothpaste,Personal Care,Colgate,Fresh Foods,1,110,29,81,54.32,26.68,UPI,New,Priya,62,August
+INV00439,2025-03-10,Cooking Oil,Grocery,Fortune,Fresh Foods,5,180,40,860,633.19,226.81,Card,Regular,Priya,75,March
+INV00440,2025-02-14,Cooking Oil,Grocery,Fortune,Metro Distributors,1,180,28,152,111.43,40.57,UPI,New,Ravi,93,February
+INV00441,2025-05-03,Bread,Bakery,Britannia,Fresh Foods,2,45,16,74,59.13,14.87,Card,Regular,Anil,64,May
+INV00442,2025-06-04,Toothpaste,Personal Care,Colgate,ABC Suppliers,3,110,33,297,229.02,67.98,Card,Regular,Sneha,72,June
+INV00443,2025-05-23,Biscuits,Snacks,Parle,XYZ Traders,3,30,31,59,39.44,19.56,Cash,Regular,Priya,6,May
+INV00444,2025-04-15,Soap,Personal Care,Lux,Metro Distributors,3,40,26,94,63.2,30.8,UPI,Regular,Priya,46,April
+INV00445,2025-04-13,Sugar 1kg,Grocery,Madhur,ABC Suppliers,5,55,20,255,194.65,60.35,Card,Regular,Anil,44,April
+INV00446,2025-08-08,Shampoo,Personal Care,Clinic Plus,Fresh Foods,4,220,0,880,663.42,216.58,Cash,New,Anil,53,August
+INV00447,2025-04-12,Soft Drink,Beverages,Coca-Cola,Fresh Foods,5,45,14,211,166.99,44.01,Cash,Regular,Ravi,9,April
+INV00448,2025-06-21,Cooking Oil,Grocery,Fortune,Fresh Foods,2,180,12,348,272.63,75.37,Cash,Regular,Priya,113,June
+INV00449,2025-12-13,Shampoo,Personal Care,Clinic Plus,Fresh Foods,3,220,0,660,456.29,203.71,UPI,New,Priya,25,December
+INV00450,2025-10-07,Soft Drink,Beverages,Coca-Cola,Fresh Foods,2,45,11,79,55.77,23.23,UPI,Regular,Anil,11,October
+INV00451,2025-01-04,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,5,220,24,1076,785.9,290.1,UPI,New,Anil,108,January
+INV00452,2025-05-01,Bread,Bakery,Britannia,Fresh Foods,5,45,22,203,149.62,53.38,Cash,New,Anil,94,May
+INV00453,2025-05-16,Toothpaste,Personal Care,Colgate,ABC Suppliers,4,110,14,426,308.31,117.69,Cash,Regular,Priya,102,May
+INV00454,2025-08-04,Shampoo,Personal Care,Clinic Plus,XYZ Traders,1,220,36,184,125.96,58.04,UPI,New,Priya,148,August
+INV00455,2025-06-26,Bread,Bakery,Britannia,Metro Distributors,4,45,11,169,122.6,46.4,Card,Regular,Sneha,111,June
+INV00456,2025-11-27,Rice 5kg,Grocery,India Gate,XYZ Traders,3,450,21,1329,961.77,367.23,UPI,Regular,Priya,81,November
+INV00457,2025-09-17,Biscuits,Snacks,Parle,Metro Distributors,5,30,40,110,75.36,34.64,Cash,New,Anil,134,September
+INV00458,2025-11-04,Bread,Bakery,Britannia,XYZ Traders,5,45,19,206,160.5,45.5,Card,Regular,Priya,31,November
+INV00459,2025-05-21,Toothpaste,Personal Care,Colgate,Fresh Foods,4,110,22,418,277.41,140.59,UPI,Regular,Sneha,78,May
+INV00460,2025-10-12,Milk 1L,Dairy,Amul,XYZ Traders,4,65,30,230,181.15,48.85,Card,New,Sneha,140,October
+INV00461,2025-01-08,Soft Drink,Beverages,Coca-Cola,Metro Distributors,1,45,12,33,23.16,9.84,Cash,New,Anil,147,January
+INV00462,2025-12-24,Rice 5kg,Grocery,India Gate,XYZ Traders,5,450,7,2243,1785.3,457.7,Card,Regular,Ravi,14,December
+INV00463,2025-02-05,Soft Drink,Beverages,Coca-Cola,Metro Distributors,2,45,11,79,58.83,20.17,Card,Regular,Priya,94,February
+INV00464,2025-05-31,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,1,220,39,181,137.5,43.5,Card,Regular,Ravi,105,May
+INV00465,2025-02-17,Biscuits,Snacks,Parle,Fresh Foods,5,30,11,139,110.16,28.84,Card,Regular,Priya,148,February
+INV00466,2025-10-04,Sugar 1kg,Grocery,Madhur,Metro Distributors,5,55,0,275,211.11,63.89,UPI,New,Ravi,78,October
+INV00467,2025-11-14,Shampoo,Personal Care,Clinic Plus,ABC Suppliers,3,220,21,639,451.97,187.03,Card,Regular,Priya,139,November
+INV00468,2025-02-07,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,2,45,11,79,52.74,26.26,Card,New,Ravi,54,February
+INV00469,2025-10-01,Shampoo,Personal Care,Clinic Plus,XYZ Traders,5,220,39,1061,718.2,342.8,UPI,Regular,Ravi,31,October
+INV00470,2025-09-26,Cooking Oil,Grocery,Fortune,Metro Distributors,3,180,20,520,395.2,124.8,Cash,Regular,Priya,59,September
+INV00471,2025-10-09,Toothpaste,Personal Care,Colgate,Metro Distributors,2,110,28,192,131.31,60.69,UPI,Regular,Priya,85,October
+INV00472,2025-11-19,Bread,Bakery,Britannia,Metro Distributors,2,45,2,88,68.74,19.26,Card,Regular,Priya,136,November
+INV00473,2025-04-08,Biscuits,Snacks,Parle,ABC Suppliers,1,30,13,17,13.17,3.83,Cash,Regular,Priya,112,April
+INV00474,2025-03-07,Soft Drink,Beverages,Coca-Cola,Metro Distributors,1,45,12,33,22.09,10.91,Cash,New,Anil,12,March
+INV00475,2025-08-25,Bread,Bakery,Britannia,ABC Suppliers,3,45,13,122,85.71,36.29,Cash,New,Sneha,27,August
+INV00476,2025-09-17,Biscuits,Snacks,Parle,ABC Suppliers,2,30,38,22,16.91,5.09,UPI,New,Sneha,9,September
+INV00477,2025-09-12,Soft Drink,Beverages,Coca-Cola,Fresh Foods,1,45,16,29,21.24,7.76,UPI,New,Ravi,99,September
+INV00478,2025-05-08,Sugar 1kg,Grocery,Madhur,ABC Suppliers,1,55,15,40,26.07,13.93,UPI,New,Priya,62,May
+INV00479,2025-10-25,Shampoo,Personal Care,Clinic Plus,Fresh Foods,4,220,6,874,623.06,250.94,Cash,Regular,Ravi,22,October
+INV00480,2025-02-18,Rice 5kg,Grocery,India Gate,XYZ Traders,5,450,27,2223,1725.45,497.55,Cash,Regular,Sneha,14,February
+INV00481,2025-01-18,Soft Drink,Beverages,Coca-Cola,Fresh Foods,2,45,39,51,40.48,10.52,Card,New,Sneha,149,January
+INV00482,2025-02-02,Biscuits,Snacks,Parle,ABC Suppliers,3,30,2,88,60.85,27.15,UPI,Regular,Sneha,45,February
+INV00483,2025-10-06,Bread,Bakery,Britannia,Metro Distributors,3,45,29,106,79.19,26.81,Cash,Regular,Ravi,108,October
+INV00484,2025-09-05,Biscuits,Snacks,Parle,ABC Suppliers,5,30,37,113,86.27,26.73,Cash,New,Ravi,127,September
+INV00485,2025-05-25,Soft Drink,Beverages,Coca-Cola,ABC Suppliers,1,45,14,31,21.19,9.81,UPI,New,Priya,93,May
+INV00486,2025-04-28,Shampoo,Personal Care,Clinic Plus,Metro Distributors,4,220,19,861,573.98,287.02,Cash,New,Priya,23,April
+INV00487,2025-12-07,Toothpaste,Personal Care,Colgate,Metro Distributors,5,110,14,536,414.47,121.53,Cash,New,Anil,28,December
+INV00488,2025-03-22,Toothpaste,Personal Care,Colgate,Fresh Foods,1,110,8,102,74.06,27.94,Card,Regular,Priya,66,March
+INV00489,2025-03-02,Rice 5kg,Grocery,India Gate,XYZ Traders,3,450,32,1318,891.68,426.32,Cash,New,Sneha,64,March
+INV00490,2025-06-02,Sugar 1kg,Grocery,Madhur,Metro Distributors,1,55,5,50,34.87,15.13,Cash,New,Ravi,77,June
+INV00491,2025-08-08,Soft Drink,Beverages,Coca-Cola,XYZ Traders,5,45,14,211,153.72,57.28,Cash,New,Sneha,76,August
+INV00492,2025-12-23,Sugar 1kg,Grocery,Madhur,Metro Distributors,2,55,31,79,57.18,21.82,Cash,New,Sneha,51,December
+INV00493,2025-12-17,Shampoo,Personal Care,Clinic Plus,XYZ Traders,3,220,13,647,429.4,217.6,Cash,New,Sneha,50,December
+INV00494,2025-03-28,Bread,Bakery,Britannia,Fresh Foods,1,45,2,43,33.65,9.35,UPI,New,Anil,41,March
+INV00495,2025-02-19,Soap,Personal Care,Lux,Metro Distributors,3,40,39,81,63.06,17.94,UPI,New,Sneha,128,February
+INV00496,2025-05-11,Milk 1L,Dairy,Amul,XYZ Traders,3,65,27,168,112.1,55.9,Card,New,Ravi,63,May
+INV00497,2025-09-11,Rice 5kg,Grocery,India Gate,XYZ Traders,4,450,37,1763,1183.9,579.1,Card,Regular,Anil,78,September
+INV00498,2025-11-11,Milk 1L,Dairy,Amul,Metro Distributors,1,65,8,57,37.28,19.72,Card,New,Anil,142,November
+INV00499,2025-03-29,Sugar 1kg,Grocery,Madhur,Metro Distributors,4,55,13,207,146.26,60.74,UPI,Regular,Ravi,112,March
+INV00500,2025-09-30,Sugar 1kg,Grocery,Madhur,Fresh Foods,4,55,9,211,162.9,48.1,Card,New,Anil,86,September
